@@ -1,2 +1,3 @@
 # krishnateja
-GCP DevOps
+First Git Repo
+Krishna teja in DevOps
